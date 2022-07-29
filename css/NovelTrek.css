@@ -12,7 +12,7 @@ h2{
 }
 
 body{
-    display:flex;
+    /*display:flex;*/
     padding-top: 3rem;
     padding-bottom: 3rem;
     background-image: url(../images/Backgorund.png);
